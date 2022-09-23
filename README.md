@@ -4,6 +4,6 @@
 - 
 - 🌱 I’m currently learning C but I also have goals to learn Python, C++, Web Design and Full-Stack Web Development.
 - 
-- 💞️ I’m looking to collaborate on my start-up ideas, projects, hackathons, events, competitions and other amazing techie stuffs.
+- 💞️ I’m looking to collaborate on my startup ideas, projects, hackathons, events, competitions and other amazing techie stuffs.
 - 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohammed-anaf-master-617b28222/), [Twitter](https://twitter.com/mohammedanafemp), [Instagram](https://www.instagram.com/mohammedanafemp/) or you can even [mail](mailto:mohammedanafcodes@gmail.com) me.
