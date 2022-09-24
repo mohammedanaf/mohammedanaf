@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mohammed Anaf Master.
 - 
-- 👀 I’m interested in technology, coding, peer programming, hackathons, start-ups, side hustles, competitive programming, internships, experience, and much more...
+- 👀 I’m interested in technology, coding, peer programming, hackathons, start-ups, side hustles, competitive programming, internships, and much more...
 - 
-- 🌱 I’m currently learning C but I also have goals to learn Python, C++, Web Design and Full-Stack Web Development.
+- 🌱 I’m currently learning C and HTML5 but I also have goals to learn Python, C++, Web Design and Full-Stack Web Development.
 - 
 - 💞️ I’m looking to collaborate on my startup ideas, projects, hackathons, events, competitions and other amazing techie stuffs.
 - 
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohammed-anaf-master-617b28222/), [Twitter](https://twitter.com/mohammedanafemp), [Instagram](https://www.instagram.com/mohammedanafemp/) or you can even [mail](mailto:mohammedanafcodes@gmail.com) me.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohammed-anaf-master-617b28222/), [Twitter](https://twitter.com/mohammedanaf_me), [Instagram](https://www.instagram.com/mohammedanafemp/) or you can even [mail](mailto:mohammedanafcodes@gmail.com) me.
