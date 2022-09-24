@@ -6,4 +6,4 @@
 - 
 - 💞️ I’m looking to collaborate on my startup ideas, projects, hackathons, events, competitions and other amazing techie stuffs.
 - 
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohammed-anaf-master-02083924b), [Twitter](https://twitter.com/mohammedanaf_me), [Instagram](https://www.instagram.com/mohammedanafemp/) or you can even [mail](mailto:mohammedanafcodes@gmail.com) me.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/mohammed-anaf-master-02083924b), [Twitter](https://twitter.com/mohammedanaf_me), [Instagram](https://www.instagram.com/mohammedanaf.me/) or you can even [mail](mailto:mohammedanafcodes@gmail.com) me.
