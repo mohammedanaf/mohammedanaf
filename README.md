@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedanaf&show_icons=true&locale=en" alt="mohammedanaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedanaf&" alt="mohammedanaf" /></p>
+
+[![An image of @mohammedanaf4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohammedanaf4)](https://holopin.io/@mohammedanaf4)
